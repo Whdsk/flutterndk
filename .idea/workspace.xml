@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dcdd874-e930-41d7-af8e-861384621560" name="Default Changelist" comment="add file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HA19WNT7]" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/native_add" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sFYPwWz6WJ2Ih05jGvFsAD29PI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcdd874-e930-41d7-af8e-861384621560" name="Default Changelist" comment="" />
+      <created>1620469783873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620469783873</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add file">
+      <created>1620704069371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620704069371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/flutter-Ndk" />
+      <path value="$PROJECT_DIR$/native_add" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="875" y="1441" key="#Notifications" timestamp="1620702202436">
+      <screen x="106" y="1103" width="1680" height="988" />
+    </state>
+    <state x="875" y="1441" key="#Notifications/0.23.1920.1057/106.1103.1680.988@106.1103.1680.988" timestamp="1620702202436" />
+    <state x="352" y="1284" key="#PSD" timestamp="1620712621765">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="352" y="1284" key="#PSD/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712621765" />
+    <state x="352" y="1278" key="#PSD/0.23.1920.1057/106.1103.1680.990@106.1103.1680.990" timestamp="1620705681485" />
+    <state x="524" y="1428" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620471315586">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="524" y="1428" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1010/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620471315586" />
+    <state width="1628" height="137" key="GridCell.Tab.0.bottom" timestamp="1620712790542">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1006/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470462994" />
+    <state width="1628" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1009/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470899848" />
+    <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1920.1010/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620471098753" />
+    <state width="1628" height="137" key="GridCell.Tab.0.bottom/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712790542" />
+    <state width="1628" height="137" key="GridCell.Tab.0.center" timestamp="1620712790541">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="330" key="GridCell.Tab.0.center/0.23.1920.1006/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470462993" />
+    <state width="1628" height="330" key="GridCell.Tab.0.center/0.23.1920.1009/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470899848" />
+    <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1920.1010/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620471098752" />
+    <state width="1628" height="137" key="GridCell.Tab.0.center/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712790541" />
+    <state width="1628" height="137" key="GridCell.Tab.0.left" timestamp="1620712790541">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="330" key="GridCell.Tab.0.left/0.23.1920.1006/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470462993" />
+    <state width="1628" height="330" key="GridCell.Tab.0.left/0.23.1920.1009/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470899847" />
+    <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1920.1010/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620471098751" />
+    <state width="1628" height="137" key="GridCell.Tab.0.left/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712790541" />
+    <state width="1628" height="137" key="GridCell.Tab.0.right" timestamp="1620712790542">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="330" key="GridCell.Tab.0.right/0.23.1920.1006/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470462994" />
+    <state width="1628" height="330" key="GridCell.Tab.0.right/0.23.1920.1009/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470899848" />
+    <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1920.1010/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620471098753" />
+    <state width="1628" height="137" key="GridCell.Tab.0.right/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712790542" />
+    <state x="202" y="1103" width="1280" height="1027" key="SettingsEditor" timestamp="1620712599778">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="202" y="1103" width="1280" height="1027" key="SettingsEditor/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620712599778" />
+    <state x="202" y="1103" key="SettingsEditor/0.23.1920.1018/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620706406271" />
+    <state x="202" y="1103" key="SettingsEditor/0.23.1920.1057/106.1103.1680.990@106.1103.1680.990" timestamp="1620705690031" />
+    <state x="202" y="1183" key="SettingsEditor/0.23.1920.1057/106.1103.1680.992@106.1103.1680.992" timestamp="1620704349950" />
+    <state x="446" y="1281" key="Vcs.Push.Dialog.v2" timestamp="1620705496880">
+      <screen x="106" y="1103" width="1680" height="990" />
+    </state>
+    <state x="446" y="1281" key="Vcs.Push.Dialog.v2/0.23.1920.1057/106.1103.1680.990@106.1103.1680.990" timestamp="1620705496880" />
+    <state x="446" y="1281" key="Vcs.Push.Dialog.v2/0.23.1920.1057/106.1103.1680.992@106.1103.1680.992" timestamp="1620704287558" />
+    <state x="536" y="1291" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1620706549835">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="536" y="1291" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.1017/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620706549835" />
+    <state x="536" y="1291" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.1018/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620703856523" />
+    <state x="536" y="1283" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.1057/106.1103.1680.984@106.1103.1680.984" timestamp="1620703451914" />
+    <state x="453" y="1455" width="770" height="616" key="find.popup" timestamp="1620470421332">
+      <screen x="106" y="1103" width="1680" height="1027" />
+    </state>
+    <state x="453" y="1455" width="770" height="616" key="find.popup/0.23.1920.1006/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620470421332" />
+    <state x="720" y="1357" key="git4idea.merge.GitPullDialog" timestamp="1620705327429">
+      <screen x="106" y="1103" width="1680" height="990" />
+    </state>
+    <state x="720" y="1355" key="git4idea.merge.GitPullDialog/0.23.1920.1057/106.1103.1680.982@106.1103.1680.982" timestamp="1620702438117" />
+    <state x="720" y="1357" key="git4idea.merge.GitPullDialog/0.23.1920.1057/106.1103.1680.990@106.1103.1680.990" timestamp="1620705327429" />
+    <state x="720" y="1358" key="git4idea.merge.GitPullDialog/0.23.1920.1057/106.1103.1680.992@106.1103.1680.992" timestamp="1620704260419" />
+    <state x="782" y="1515" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620705416347">
+      <screen x="106" y="1103" width="1680" height="990" />
+    </state>
+    <state x="782" y="1530" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.1018/106.1103.1680.1027@106.1103.1680.1027" timestamp="1620703900156" />
+    <state x="782" y="1511" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.1057/106.1103.1680.982@106.1103.1680.982" timestamp="1620702422529" />
+    <state x="782" y="1515" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.1057/106.1103.1680.990@106.1103.1680.990" timestamp="1620705416347" />
+  </component>
+</project>
